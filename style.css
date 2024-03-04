@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Kode Mono", monospace;
+    font-weight: 500px;
+    text-align: center;
+}
+
+#img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+#msg {
+    padding: 15px;
+}
+
+header {
+    color: #FFFFFF;
+    margin: 30px;
+}
+
+footer {
+    color: #FFFFFF;
+    font-style: italic;
+    margin: 30px;
+}
+
+.wrapper {
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #FFFFFF;
+    width: 500px;
+    height: 400px;
+    box-shadow: 5px 5px 10px rgb(100, 98, 98);
+}
+
